@@ -1,10 +1,4 @@
-<table><thead><tr><th colspan="4">CYNTHIA!</th></tr></thead><tbody><tr><td>👩 Girl</td><td>🎓 Grade 11</td><td>🇨🇳 Chinese</td><td>💻 Loves Programming</td></tr><tr><td> 📝 SCP Writer &amp; Translator</td><td>🎬 <a href="https://space.bilibili.com/277809595" target="_blank" rel="noopener noreferrer">Bilibili Video Uploader</a></td><td>🌐 IB Student</td><td>🕹 Assassin's Creed &amp; Human Fall Flat</td></tr></tbody></table>
-
-### My Personal Websites:
-* **[🏚The Cabin](http://cynthia-s-cabin.wikidot.com/)** *Arts* / *Hubs* / *Diaries*
-* **[📌Cynthia7979.github.io](https://cynthia7979.github.io)** *Experiments* / *Notes* / *Tech stuff*
-
-### [❔Click Here](http://cynthiawangqa.chatango.com) to Ask Me Questions You Have!
+<table><thead><tr><th colspan="4">CYNTHIA (<a href="http://cynthiawangqa.chatango.com/" target="_blank" rel="noopener noreferrer">Ask Me Questions!</a>)</th></tr></thead><tbody><tr><td>👩 Girl</td><td>🎓 Grade 11</td><td>🇨🇳 Chinese</td><td>💻 Loves Programming</td></tr><tr><td> 📝 SCP Writer &amp; Translator</td><td>🎬 <a href="https://space.bilibili.com/277809595" target="_blank" rel="noopener noreferrer">Bilibili Video Uploader</a></td><td>🌐 IB Student</td><td>🕹 Assassin's Creed &amp; Human Fall Flat</td></tr><tr><td><a href="http://cynthia-s-cabin.wikidot.com/" target="_blank" rel="noopener noreferrer">🏚 My Cabin</a></td><td>🔗 <a href="https://cynthia7979.github.io/" target="_blank" rel="noopener noreferrer">Cynthia7979.github.io</a></td><td></td><td></td></tr></tbody></table>
 
 <!--
 **Cynthia7979/Cynthia7979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
