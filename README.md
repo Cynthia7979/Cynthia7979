@@ -6,7 +6,7 @@
 <table>
 <thead>
   <tr>
-    <th colspan="4">CYNTHIA (<a href="http://cynthiawangqa.chatango.com/" target="_blank" rel="noopener noreferrer">Ask Me Questions!</a>)</th>
+    <th colspan="4"><a href="http://cynthiawangqa.chatango.com/" target="_blank" rel="noopener noreferrer">ASK ME ANYTHING!</a></th>
   </tr>
 </thead>
 <tbody>
