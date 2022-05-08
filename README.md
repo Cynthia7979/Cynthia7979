@@ -19,7 +19,7 @@
   <tr>
     <td>🎞 <a href="https://letterboxd.com/cynthia7979/" target="_blank" rel="noopener noreferrer">Letterboxd</a></td>
     <td>🎨 <a href="https://www.deviantart.com/cynthia7979" target="_blank" rel="noopener noreferrer">DeviantArt</a></td>
-    <td>🔗 <a href="https://cynthia7979.github.io/">Github.IO </a></td>
+    <td>🔗 <a href="https://cynthia7979.github.io/">Github.IO Blog</a></td>
     <td>🏚 <a href="http://cynthia-s-cabin.wikidot.com/" target="_blank" rel="noopener noreferrer">中文博客（已弃用）</a></td>
   </tr>
   <tr>
