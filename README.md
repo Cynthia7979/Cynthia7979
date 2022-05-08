@@ -11,7 +11,7 @@
 </thead>
 <tbody>
   <tr>
-    <td>👩 She/Her/Hers/Herself</td>
+    <td>👩 She/Her (They/Them is also ok)</td>
     <td>🎓 Y12 IB Student</td>
     <td>🇨🇳 Chinese</td>
     <td>💻 Loves Programming</td>
