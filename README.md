@@ -6,7 +6,7 @@
 <table>
 <thead>
   <tr>
-    <th colspan="4"><a href="http://cynthiawangqa.chatango.com/" target="_blank" rel="noopener noreferrer">ASK ME ANYTHING!</a></th>
+    <th colspan="4"><a href="http://cynthiawangqa.chatango.com/" target="_blank" rel="noopener noreferrer">💬 ASK ME ANYTHING!</a></th>
   </tr>
 </thead>
 <tbody>
@@ -23,8 +23,8 @@
     <td>🏚 <a href="http://cynthia-s-cabin.wikidot.com/" target="_blank" rel="noopener noreferrer">中文博客（已弃用）</a></td>
   </tr>
   <tr>
-    <td>💻 <a href="https://space.bilibili.com/277809595">Bilibili Content Creator</a><br>(Also on <a href="https://www.youtube.com/channel/UCUroThMlKogLinWAnoQBs2g">YouTube</a>!)</td>
-    <td>💼 Currently working on:<br><a href="https://www.bilibili.com/video/BV1pq4y1M7QN">TRPG Replays</a></td>
+    <td>💻 <a href="https://space.bilibili.com/277809595">Bilibili Content Creator</a><br>(Also on <a href="https://www.youtube.com/channel/UCUroThMlKogLinWAnoQBs2g">YouTube</a>)</td>
+    <td>💼 Currently working on:<br><a href="https://github.com/cynthia7979/dream-index-nodejs">Reviving a past project</a></td>
     <td>❤🕹 Fav Game:<br>Inscryption &amp; Genesis Noir</td>
     <td>📕 Check out:<br><a href="https://cynthia7979.github.io/www-dict/" target="_blank" rel="noopener noreferrer">Internet Slang Dictionary (CN-EN)</a></td>
   </tr>
