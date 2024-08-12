@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>💻 <a href="https://space.bilibili.com/277809595">Bilibili Content Creator</a><br>(Also on <a href="https://www.youtube.com/channel/UCUroThMlKogLinWAnoQBs2g">YouTube</a>)</td>
-    <td>💼 Currently working on:<br><a href="https://github.com/cynthia7979/dream-index-nodejs">Reviving a past project</a></td>
+    <td>💼 Currently working on:<br><a href="https://github.com/cynthia7979/smptech">Coding Minecraft datapack for server</a></td>
     <td>❤🕹 Fav Game:<br>Inscryption &amp; Genesis Noir</td>
     <td>📕 Check out:<br><a href="https://cynthia7979.github.io/www-dict/" target="_blank" rel="noopener noreferrer">Internet Slang Dictionary (CN-EN)</a></td>
   </tr>
