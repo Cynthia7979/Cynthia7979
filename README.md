@@ -8,7 +8,6 @@
   <tr>
     <td>👩 She/Her/They/Them</td>
     <td>🎓 Georgia Tech CS - Class of '26</td>
-    <td>🇨🇳 Chinese</td>
     <td>❤🕹 Fav Game:<br>Inscryption &amp; Genesis Noir</td>
   </tr>
 </tbody>
